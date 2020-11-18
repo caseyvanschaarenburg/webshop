@@ -1,5 +1,5 @@
 <?php
-require '../../config/connect.php';
+require '../../configg/connect.php';
 session_start();
 if (isset($_SESSION['username']) == true) {
 

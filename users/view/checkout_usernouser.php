@@ -1,5 +1,5 @@
 <?php
-include("../../config/connect.php");
+include("../../configg/connect.php");
 include("../src/checkout_user.php");
 session_start();
 //dd($_POST);
@@ -43,7 +43,7 @@ if (!empty($_POST)) {
                 <div class="row">
                     <div class="col-lg-12 text-right">
                         <div class="logo_container">
-                            <a href="../../index.php">Scammable</a>
+                        <a href="index.php"><img src="../../assets/img/logo.png" alt="Hotpink" height="45px"></a>
                         </div>
                         <nav class="navbar">
                             <ul class="navbar_menu">

@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bb8c436-0580-4470-bb56-42300d784a0d" name="Default Changelist" comment="dit is de webshop" />
+    <list default="true" id="7bb8c436-0580-4470-bb56-42300d784a0d" name="Default Changelist" comment="dit is de webshop">
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/hotpink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/qr-code8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/roos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/tas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cms/products/uploads/wc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configg/_variables.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/costumers/costumers_cms.php" beforeDir="false" afterPath="$PROJECT_DIR$/cms/costumers/costumers_cms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/products/products_cms.php" beforeDir="false" afterPath="$PROJECT_DIR$/cms/products/products_cms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_variables.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/configg/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.php" beforeDir="false" afterPath="$PROJECT_DIR$/shop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingcart.php" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingcart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/src/checkout_user.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/src/checkout_user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/src/order_success.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/src/order_success.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/src/users_register.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/src/users_register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/view/checkout_usernouser.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/view/checkout_usernouser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/view/users_login_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/view/users_login_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/view/users_register_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/users/view/users_register_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/welcome.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/welcome.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +72,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cms/products/uploads" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\hotpink-webshop\cms\products\uploads" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +94,8 @@
       <workItem from="1605521881309" duration="7921000" />
       <workItem from="1605534855693" duration="21000" />
       <workItem from="1605535004855" duration="604000" />
-      <workItem from="1605597974045" duration="1051000" />
+      <workItem from="1605597974045" duration="1276000" />
+      <workItem from="1605622454346" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="dit is de webshop">
       <created>1605602397798</created>
@@ -63,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dit is de webshop" />
@@ -73,9 +131,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605169540043" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605534875081">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605651870669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605534875081" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605651870669" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605602912495" />
+    <state x="254" y="161" key="Vcs.Push.Dialog.v2" timestamp="1605602905377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="254" y="161" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605602905377" />
   </component>
 </project>

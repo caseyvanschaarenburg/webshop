@@ -1,6 +1,6 @@
 <?php
 session_start();
-require '../config/connect.php';
+require '../configg/connect.php';
 if (isset($_SESSION['username'])== true) {
         header("Refresh:0");
     } else {

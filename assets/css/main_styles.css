@@ -667,6 +667,7 @@ section
 }
 .red_button
 {
+	margin-top: 10px;
 	display: -webkit-inline-box;
 	display: -moz-inline-box;
 	display: -ms-inline-flexbox;
@@ -674,10 +675,11 @@ section
 	display: inline-flex;
 	flex-direction: column;
 	justify-content: center;
+	border: none;
 	align-items: center;
 	width: auto;
 	height: 40px;
-	background: #566787;
+	background: hotpink;
 	border-radius: 3px;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
@@ -687,7 +689,7 @@ section
 }
 .red_button:hover
 {
-	background: #b5aec4 !important;
+	background: pink !important;
 }
 .red_button a
 {
@@ -995,10 +997,7 @@ section
 {
 	margin-top: 150px;
 }
-.product_section
-{
 
-}
 .sidebar
 {
 	float: left;
@@ -1149,10 +1148,16 @@ section
 	width: 100%;
 	margin-top: 57px;
 }
+
+.img-fluid{
+height: 180px;
+}
 .product-item
 {
 	width: 25%;
-	height: 380px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	height: auto;
 	cursor: pointer;
 }
 .product-item::after
@@ -1316,7 +1321,7 @@ section
 	position: absolute;
 	top: 15px;
 	right: 15px;
-	color: #b9b4c7;
+	color: hotpink;
 	width: 17px;
 	height: 17px;
 	visibility: hidden;
@@ -1340,7 +1345,7 @@ section
 {
 	font-family: 'FontAwesome';
 	content:'\f004';
-	color: #566787;
+	color: hotpink;
 }
 .favorite::after
 {
@@ -1349,7 +1354,7 @@ section
 }
 .favorite:hover::after
 {
-	color: #566787;
+	color: hotpink;
 }
 
 /*********************************
@@ -1761,10 +1766,10 @@ textarea:hover
 {
 	margin-top: 12px;
 }
-.free_delivery
-{
-	background: #f5f5f5;
-	margin-top: 53px;
+.knoppie{
+	background-color: hotpink;
+	border: none;
+	width: 300px;
 }
 .free_delivery i
 {

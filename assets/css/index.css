@@ -21,6 +21,7 @@
     padding: 45px 0
 }
 
+
 .product-grid2 {
     font-family: 'Open Sans', sans-serif;
     position: relative
@@ -193,7 +194,7 @@
 }
 
 .product-grid2 .title a:hover {
-    color: #3498db
+    color: hotpink;
 }
 
 .product-grid2 .price {

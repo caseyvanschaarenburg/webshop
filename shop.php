@@ -1,5 +1,5 @@
 <?php
-require_once "config/connect.php";
+require_once "configg/connect.php";
 session_start();
 
 if(isset($_POST["add_to_cart"]))
@@ -77,7 +77,7 @@ if(isset($_POST["add_to_cart"]))
                 <div class="row">
                     <div class="col-lg-12 text-right">
                         <div class="logo_container">
-                            <a href="index.php">Scammable</a>
+                            <a href="index.php"><img src="assets/img/logo.png" alt="Hotpink" height="45px"></a>
                         </div>
                         <nav class="navbar">
                             <ul class="navbar_menu">
@@ -194,7 +194,7 @@ if(isset($_POST["add_to_cart"]))
                                                     <input type="hidden" name="hidden_name" value="<?= $row['name']; ?>">
                                                     <input type="hidden" name="hidden_price" value="<?= $row['price']; ?>">
                                                 </div>
-                                                <div class="red_button add_to_cart_button"><input type="submit" name="add_to_cart" value="add to cart"></div>
+                                                <div><input type="submit" name="add_to_cart" class="red_button add_to_cart_button" value="add to cart"></div>
                                             </div>
                                         </form>
 

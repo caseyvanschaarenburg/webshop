@@ -1,5 +1,5 @@
 <?php
-require_once "config/connect.php";
+require_once "configg/connect.php";
 session_start();
 if (isset($_POST["add_to_cart"])) {
     if (isset($_SESSION["shopping_cart"])) {
@@ -64,7 +64,7 @@ $id = $_GET['id'];
                 <div class="row">
                     <div class="col-lg-12 text-right">
                         <div class="logo_container">
-                            <a href="index.php">Scammable</a>
+						<a href="index.php"><img src="assets/img/logo.png" alt="Hotpink" height="45px"></a>
                         </div>
                         <nav class="navbar">
                             <ul class="navbar_menu">
@@ -157,7 +157,7 @@ $id = $_GET['id'];
                             weight: <?= $row['weight']; ?> kilogram</p>
 					</div>
                     <div class="free_delivery d-flex flex-row align-items-center justify-content-center">
-                        <span class="ti-truck"></span><span><input type="submit" name="add_to_cart" value="add to cart"></span>
+                        <span class="ti-truck"></span><span><input type="submit" class="knoppie" name="add_to_cart" value="add to cart"></span>
                     </div>
 					<div class="product_price">$<?= $row['price']; ?></div>
                     <input type="hidden" name="hidden_name" value="<?= $row['name']; ?>">
