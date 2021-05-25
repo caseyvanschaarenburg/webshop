@@ -11,4 +11,4 @@ gekoppelde github : https://github.com/caseyvanschaarenburg/hotpink https://gith
 
 CMS
 ![image](https://user-images.githubusercontent.com/72434750/119491230-fa11a280-bd5d-11eb-9e19-3226c7ce7b7a.png)
-![image](https://user-images.githubusercontent.com/72434750/119491457-393ff380-bd5e-11eb-8a75-9d79a19c3e0a.png)
+
