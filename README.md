@@ -20,6 +20,7 @@ SHOP
 
 ![image](https://user-images.githubusercontent.com/72434750/119491885-c2572a80-bd5e-11eb-9636-aa45f56b8051.png)
 
+![image](https://user-images.githubusercontent.com/72434750/119493140-2cbc9a80-bd60-11eb-9973-82e05e735239.png)
 
 
 CMS
